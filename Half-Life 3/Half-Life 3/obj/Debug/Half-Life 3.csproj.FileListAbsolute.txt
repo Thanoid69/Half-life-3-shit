@@ -1,0 +1,23 @@
+C:\Users\I-Lego\source\repos\Half-Life 3\Half-Life 3\bin\Debug\Half-Life 3.exe.config
+C:\Users\I-Lego\source\repos\Half-Life 3\Half-Life 3\bin\Debug\Half-Life 3.exe
+C:\Users\I-Lego\source\repos\Half-Life 3\Half-Life 3\bin\Debug\Half-Life 3.pdb
+C:\Users\I-Lego\source\repos\Half-Life 3\Half-Life 3\obj\Debug\Half-Life 3.csprojAssemblyReference.cache
+C:\Users\I-Lego\source\repos\Half-Life 3\Half-Life 3\obj\Debug\Half_Life_3.Form1.resources
+C:\Users\I-Lego\source\repos\Half-Life 3\Half-Life 3\obj\Debug\Half_Life_3.Properties.Resources.resources
+C:\Users\I-Lego\source\repos\Half-Life 3\Half-Life 3\obj\Debug\Half-Life 3.csproj.GenerateResource.cache
+C:\Users\I-Lego\source\repos\Half-Life 3\Half-Life 3\obj\Debug\Half-Life 3.csproj.CoreCompileInputs.cache
+C:\Users\I-Lego\source\repos\Half-Life 3\Half-Life 3\obj\Debug\Half-Life 3.exe
+C:\Users\I-Lego\source\repos\Half-Life 3\Half-Life 3\obj\Debug\Half-Life 3.pdb
+C:\Users\I-Lego\source\repos\Half-Life 3\Half-Life 3\obj\Debug\Half_Life_3.lol.resources
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\bin\Debug\Half-Life 3.exe.config
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\bin\Debug\Half-Life 3.exe
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\bin\Debug\Half-Life 3.pdb
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\obj\Debug\Half-Life 3.csprojAssemblyReference.cache
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\obj\Debug\Half_Life_3.lol.resources
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\obj\Debug\Half_Life_3.Form1.resources
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\obj\Debug\Half_Life_3.Options.resources
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\obj\Debug\Half_Life_3.Properties.Resources.resources
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\obj\Debug\Half-Life 3.csproj.GenerateResource.cache
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\obj\Debug\Half-Life 3.csproj.CoreCompileInputs.cache
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\obj\Debug\Half-Life 3.exe
+C:\Users\xxmut\OneDrive\Desktop\Half-Life 3\Half-Life 3\obj\Debug\Half-Life 3.pdb
